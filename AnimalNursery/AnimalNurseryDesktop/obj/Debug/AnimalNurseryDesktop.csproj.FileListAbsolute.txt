@@ -1,0 +1,34 @@
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\bin\Debug\AnimalNurseryDesktop.exe.config
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\bin\Debug\AnimalNurseryDesktop.exe
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\bin\Debug\AnimalNurseryDesktop.pdb
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.AssemblyReference.cache
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.SuggestedBindingRedirects.cache
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.Properties.Resources.resources
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.GenerateResource.cache
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.CoreCompileInputs.cache
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.exe
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.pdb
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.MainForm.resources
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\bin\Debug\Newtonsoft.Json.dll
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\bin\Debug\Newtonsoft.Json.xml
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.CopyComplete
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.FormAddAnimal.resources
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.FormAddCommands.resources
+E:\Яндекс.Диск\YandexDisk\GB\Final Work 2023\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.FormUpdateAnimal.resources
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\bin\Debug\AnimalNurseryDesktop.exe.config
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\bin\Debug\AnimalNurseryDesktop.exe
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\bin\Debug\AnimalNurseryDesktop.pdb
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.FormAddAnimal.resources
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.FormAddCommands.resources
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.FormUpdateAnimal.resources
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.MainForm.resources
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.Properties.Resources.resources
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.GenerateResource.cache
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.csproj.CopyComplete
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.exe
+C:\Users\1\Desktop\FinallyTask\AnimalNursery\AnimalNurseryDesktop\obj\Debug\AnimalNurseryDesktop.pdb
